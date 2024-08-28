@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/%3Crepository-name%3E/static/css/main.abe24700.css",
+    "main.js": "/%3Crepository-name%3E/static/js/main.39964030.js",
+    "static/js/511.482de557.chunk.js": "/%3Crepository-name%3E/static/js/511.482de557.chunk.js",
+    "static/media/product4.svg": "/%3Crepository-name%3E/static/media/product4.ede608981b004d045df10c18a02d5d80.svg",
+    "static/media/product1.svg": "/%3Crepository-name%3E/static/media/product1.04f93ac4437128895ca164ce92336b3c.svg",
+    "static/media/preview.svg": "/%3Crepository-name%3E/static/media/preview.7206869ddc5dc89ea078.svg",
+    "static/media/product2.svg": "/%3Crepository-name%3E/static/media/product2.f3246ce8d589f222ac0abf54670e8161.svg",
+    "static/media/productDetail.svg": "/%3Crepository-name%3E/static/media/productDetail.3ce2104d2fe0f3ba1c0e70562b738989.svg",
+    "static/media/sellingchair.svg": "/%3Crepository-name%3E/static/media/sellingchair.956e8711418676818868d01ccc932cc1.svg",
+    "static/media/chairs.svg": "/%3Crepository-name%3E/static/media/chairs.f1694ba670f0be7eaf9bc7661eb11f5e.svg",
+    "static/media/product3.svg": "/%3Crepository-name%3E/static/media/product3.f7bb8a9cd49f75606066002bda88b2ad.svg",
+    "static/media/lamps.svg": "/%3Crepository-name%3E/static/media/lamps.44c26cc00c44e6b8fb193b67c62bfe4e.svg",
+    "static/media/sofas.svg": "/%3Crepository-name%3E/static/media/sofas.9aecb2bc8003fae7b0a7f9436ae4c0e7.svg",
+    "static/media/chair.svg": "/%3Crepository-name%3E/static/media/chair.db152e2edd9fc06a6075df9b1e8132bc.svg",
+    "static/media/tables.svg": "/%3Crepository-name%3E/static/media/tables.69fb83eb307c30e96b2aa42a91c2b96a.svg",
+    "static/media/interior.svg": "/%3Crepository-name%3E/static/media/interior.f54be3b05e3985c2b39b44762caef4cc.svg",
+    "static/media/verifybg.png": "/%3Crepository-name%3E/static/media/verifybg.c055497e0fc3454604d4.png",
+    "static/media/loginbg.png": "/%3Crepository-name%3E/static/media/loginbg.297f4723efdb6d7cb564.png",
+    "static/media/tshirt.png": "/%3Crepository-name%3E/static/media/tshirt.3ce6ebf8dc5ea0b3090e.png",
+    "static/media/eliteStyle.svg": "/%3Crepository-name%3E/static/media/eliteStyle.06a7c2b765d9ae581ce0ff7a76073dec.svg",
+    "static/media/backButton.svg": "/%3Crepository-name%3E/static/media/backButton.344910847c3c7f03c5b8d989ba87b0c5.svg",
+    "static/media/slick.svg": "/%3Crepository-name%3E/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/%3Crepository-name%3E/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/socialIcons.svg": "/%3Crepository-name%3E/static/media/socialIcons.d28f87ad858d0763094c7ea4c359d5aa.svg",
+    "static/media/slick.ttf": "/%3Crepository-name%3E/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/%3Crepository-name%3E/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/cartIcon.svg": "/%3Crepository-name%3E/static/media/cartIcon.01b0479988bd404853bc53d2b09e9445.svg",
+    "static/media/cart.svg": "/%3Crepository-name%3E/static/media/cart.e4c358429a6be7055fe5332ffe4fc2a1.svg",
+    "index.html": "/%3Crepository-name%3E/index.html",
+    "static/media/previewbg.svg": "/%3Crepository-name%3E/static/media/previewbg.1bcab00ba9b0469c165e.svg",
+    "main.abe24700.css.map": "/%3Crepository-name%3E/static/css/main.abe24700.css.map",
+    "main.39964030.js.map": "/%3Crepository-name%3E/static/js/main.39964030.js.map",
+    "511.482de557.chunk.js.map": "/%3Crepository-name%3E/static/js/511.482de557.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abe24700.css",
+    "static/js/main.39964030.js"
+  ]
+}
