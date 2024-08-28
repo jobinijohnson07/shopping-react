@@ -1,0 +1,343 @@
+.homepagewrapper{
+    .headerwrapper{
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 32px;
+        padding-bottom: 32px;
+        justify-content: space-between;
+    }
+    a{
+        color: #000000 !important;
+        text-decoration: unset !important;
+    }
+    .homecontent{
+        margin-right: 40px;
+    }
+    .firstsection{
+        align-items: center;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 40px;
+        padding-bottom: 60px;
+        background-color: #F8F8F8;
+    }
+    .conetentsection{
+        width: 60%;
+    }
+    .step-content{
+        font-family: Segoe UI Semibold;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: left;
+        padding-bottom: 34px;
+        color: #949EAD;
+    }
+    .nextgen-content{
+        font-family: Segoe UI Semibold;
+        font-size: 80px;
+        font-weight: 700;
+        line-height: 66px;
+        text-align: left;
+        padding-bottom: 14px;
+        color: #C56D68;
+    }
+    .shop-content{
+        font-family: Segoe UI Semibold;
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 50px;
+        text-align: left;
+        padding-bottom: 40px;
+        color: #4B505E;
+    }
+    .exp-content{
+        font-family: Segoe UI Semibold;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 20.13px;
+        text-align: left;
+        color: #4B505E;
+    }
+    .chair-imgcontent{
+        width: 40%;
+    }
+    .productcategorywarapper{
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 100px;
+    }
+    .prodcategory-content{
+        font-family: Segoe UI Semibold;
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 62.5px;
+        text-align: center;
+        padding-bottom: 40px;
+        color: #4B505E;
+    }
+    .categorysection{
+        padding-left: 200px;
+        padding-right: 200px;
+        justify-content: space-between;
+        padding-bottom: 100px;
+    }
+    .categorysec{
+        padding-left: 200px;
+        padding-right: 200px;
+        padding-bottom: 100px;
+        justify-content: space-between;
+    }
+    .productname-content{
+        font-family: Segoe UI Semibold;
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 27.5px;
+        text-align: left;
+        padding-top: 20px;
+        padding-bottom: 4px;
+        color: #4B505E;
+    }
+    .productcount-content{
+        font-family: Segoe UI Semibold;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 20.13px;
+        text-align: left;
+        color: #888888;
+    }
+    .sellingwrapper{
+        padding-left: 100px;
+        padding-bottom: 100px;
+        padding-top: 100px;
+        padding-right: 100px;
+        background-color: #333333;
+    }
+    .yourhome-content{
+        font-family: Segoe UI Semibold;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 25px;
+        text-align: left;
+        padding-bottom: 6px;
+        color: #F8F8F8;
+    }
+    .selling-content{
+        font-family: Segoe UI Semibold;
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 62.5px;
+        text-align: left;
+        padding-bottom: 60px;
+        color: #C56D68;
+    }
+    .product-section{
+        // width: 1024px !important;
+        align-items: center;
+        margin-bottom: 40px;
+        margin-right: 40px;
+        background-color: #3E3E3E;
+    }
+    .slick-slide .slick-active .slick-current{
+        width: unset !important;
+        margin-right: 30px;
+    }
+    .slick-slide {
+        padding: 0 15px;
+    
+    }
+    .product-section {
+        justify-content: center;
+        padding: 10px;
+        margin: 15px 0;
+    }
+    .detailsection{
+        width: 75%;
+    }
+    .title-content{
+        font-family: Segoe UI Semibold;
+        font-size: 24px;
+        font-weight: normal;
+        line-height: 30px;
+        text-align: left;
+        padding-bottom: 20px;
+        color: #ffffff;
+    }
+    .amount-content{
+        font-family: Segoe UI Semibold;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 32.5px;
+        text-align: left;
+        padding-bottom: 24px;
+        color: #ffffff;
+    }
+    .tax-content{
+        font-size: 16px;
+        color: #AEAEAE;
+    }
+    .productdesc-content{
+        font-family: Segoe UI Semibold;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 20.13px;
+        text-align: left;
+        padding-bottom: 20px;
+        color: #888888;
+    }
+    .dimension-content{
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 20px;
+        text-align: left;
+        padding-bottom: 10px;
+        color: #949EAD;
+    }
+    .length-content{
+        font-size: 20px;
+        font-weight: normal;
+        line-height: 25.16px;
+        text-align: left;
+        padding-bottom: 23px;
+        color: #ffffff;
+    }
+    .cartbutton-content{
+        width: 326px;
+        height: 40px;
+        padding: 10px, 20px, 10px, 20px;
+        border-radius: 20px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        border: 1px solid #C56D68;
+        background-color: #C56D68;
+        color: #ffffff;
+    }
+    .carticon-content{
+        padding-right: 10px;
+    }
+    .explorewrapper{
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 100px;
+    }
+    .tour-content{
+        font-family: Segoe UI Semibold;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 25px;
+        text-align: center;
+        padding-bottom: 6px;
+        color: #4B505E;
+    }
+    .explore-content{
+        font-family: Segoe UI Semibold;
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 62.5px;
+        text-align: center;
+        padding-bottom: 50px;
+        color: #C56D68;
+    }
+    .expdescription-content{
+        font-family: Segoe UI Semibold;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 20.13px;
+        text-align: center;
+        color: #888888;
+    }
+    .interior-imgcontent{
+        width: -webkit-fill-available;
+    }
+    .visualizewrapper{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .visual-content{
+        font-family: Segoe UI Semibold;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 25px;
+        text-align: left;
+        padding-bottom: 6px;
+        color: #4B505E;
+    }
+    .world-content{
+        font-family: Segoe UI Semibold;
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 62.5px;
+        text-align: left;
+        padding-bottom: 50px;
+        color: #C56D68;
+    }
+    .visualdesc-content{
+        font-family: Segoe UI Semibold;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 20.13px;
+        text-align: left;
+        padding-bottom: 60px;
+        color: #888888;
+    }
+    .decorwarapper{
+        width: -webkit-fill-available;
+        height: 900px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url("../../assets/preview.svg");
+    }
+    .previewsection{
+        justify-content: center;
+    }
+    .preview-content{
+        font-family: Segoe UI Semibold;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 30px;
+        text-align: left;
+        display: flex;
+        justify-content: center;
+        text-align: left;
+        padding-top: 140px;
+        padding-left: 250px;
+        color: #4B505E;
+    }
+    .potentialwrapper{
+        width: 417px;
+        height: 900px;
+        padding: 120px 60px;
+        margin-left: 100px;
+        background-image: url("../../assets/previewbg.svg");
+    }
+    .max-conetnt{
+        font-family: Segoe UI Semibold;
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 33.66px;
+        text-align: left;
+        padding-bottom: 40px;
+        color: #4B505E;
+    }
+    .percentage-content{
+        font-family: Segoe UI Semibold;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 50px;
+        text-align: left;
+        padding-bottom: 3px;
+        color: #C56D68;
+    }
+    .percentdesc-content{
+        font-family: Segoe UI Semibold;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 25.16px;
+        text-align: left;
+        padding-bottom: 44px;
+        color: #4B505E;
+    }
+}

@@ -1,0 +1,119 @@
+.productdetailwrapper{
+    padding-left: 100px;
+    padding-right: 100px;
+    .headerwrapper{
+        padding-top: 32px;
+        padding-bottom: 32px;
+        justify-content: space-between;
+    }
+    .product-content{
+        font-family: Segoe UI Semibold;
+        font-size: 22px;
+        font-weight: bold;
+        line-height: 20px;
+        text-align: left;
+        padding-bottom: 35px;
+        color: #4B505E;
+    }
+    a{
+        color: #000000 !important;
+        text-decoration: unset !important;
+    }
+    .homecontent{
+        margin-right: 40px;
+    }
+    .imgsection{
+        width: 80%;
+    }
+    .backbutton-content{
+        padding-bottom: 40px;
+        cursor: pointer;
+    }
+    .product-section{
+        align-items: center;
+        margin-bottom: 40px;
+    }
+    .detailsection{
+        width: 75%;
+    }
+    .title-content{
+        font-family: Segoe UI Semibold;
+        font-size: 24px;
+        font-weight: normal;
+        line-height: 30px;
+        text-align: left;
+        padding-bottom: 20px;
+        color: #4B505E;
+    }
+    .amount-content{
+        font-family: Segoe UI Semibold;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 32.5px;
+        text-align: left;
+        padding-bottom: 24px;
+        color: #4B505E;
+    }
+    .tax-content{
+        font-size: 16px;
+        color: #AEAEAE;
+    }
+    .productdesc-content{
+        font-family: Segoe UI Semibold;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 20.13px;
+        text-align: left;
+        padding-bottom: 20px;
+        color: #888888;
+    }
+    .dimension-content{
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 20px;
+        text-align: left;
+        padding-bottom: 10px;
+        color: #949EAD;
+    }
+    .length-content{
+        font-size: 20px;
+        font-weight: normal;
+        line-height: 25.16px;
+        text-align: left;
+        padding-bottom: 23px;
+        color: #4B505E;
+    }
+    .cartbutton-content{
+        width: 326px;
+        height: 40px;
+        padding: 10px, 20px, 10px, 20px;
+        border-radius: 20px;
+        border: 1px solid #C56D68;
+        background-color: #C56D68;
+        color: #ffffff;
+    }
+    .carticon-content{
+        padding-right: 10px;
+    }
+    .productdimenwrapper{
+        margin-bottom: 30px;
+    }
+    .propertieswrapper{
+        width: 450px;
+    }
+    .productcon-content{
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 20.13px;
+        text-align: left;
+        padding-bottom: 8px;
+        color: #888888;
+    }
+    .productdetail-content{
+        font-size: 18px;
+        font-weight: normal;
+        line-height: 20.13px;
+        text-align: left;
+        color: #4B505E;
+    }
+}
